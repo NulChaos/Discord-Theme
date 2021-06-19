@@ -324,7 +324,7 @@ textarea,
   text-shadow: 0 0 3px;
 }
 .typeMacOS-3EmCyP:after {
-  content: "6.1.0";
+  content: "6.9";
   color: rgba(255, 255, 255, 0.3);
 }
 
@@ -1221,7 +1221,7 @@ textarea,
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v6.1.0";
+  content: "v6.9";
   left: 50%;
   text-align: left;
   opacity: 0;
